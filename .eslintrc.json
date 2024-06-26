@@ -9,30 +9,30 @@
   "parserOptions": {
     "ecmaVersion": "latest"
   },
-  "rules": {
-    "indent": [
-      "error",
-      2
-    ],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
-    "quotes": [
-      "error",
-      "single"
-    ],
-    "semi": [
-      "error",
-      "always"
-    ],
-    "no-unused-vars": [
-      "error",
-      {
-        "vars": "all",
-        "args": "none",
-        "ignoreRestSiblings": false
-      }
-    ]
-  }
+  // "rules": {
+  //   "indent": [
+  //     "error",
+  //     2
+  //   ],
+  //   "linebreak-style": [
+  //     "error",
+  //     "unix"
+  //   ],
+  //   "quotes": [
+  //     "error",
+  //     "single"
+  //   ],
+  //   "semi": [
+  //     "error",
+  //     "always"
+  //   ],
+  //   "no-unused-vars": [
+  //     "error",
+  //     {
+  //       "vars": "all",
+  //       "args": "none",
+  //       "ignoreRestSiblings": false
+  //     }
+  //   ]
+  // }
 }
